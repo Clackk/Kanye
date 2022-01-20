@@ -1,0 +1,21 @@
+{
+    "name": "Kanye-Quotes",
+    "short": "quotes from the Ye himself",
+    "description": "a cog that grabs kanye quotes from the internet",
+    "end_user_data_statement": "This cog does not persistently store any data or metadata about users. sue me.",
+    "install_msg": "Thank you for installing! I hope you enjoy the quotes!",
+    "author": [
+        "clack#4405"
+    ],
+    "required_cogs": {},
+    "requirements": [],
+    "tags": [
+        "kanye",
+        "quote",
+        "quotes"
+    ],
+    "min_bot_version": "3.3.10",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
